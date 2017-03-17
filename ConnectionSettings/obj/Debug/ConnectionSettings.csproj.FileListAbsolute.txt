@@ -1,0 +1,4 @@
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\bin\Debug\ConnectionSettings.dll
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\bin\Debug\ConnectionSettings.pdb
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\obj\Debug\ConnectionSettings.dll
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\obj\Debug\ConnectionSettings.pdb

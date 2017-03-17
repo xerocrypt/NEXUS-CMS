@@ -1,0 +1,5 @@
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\bin\Release\ConnectionSettings.dll
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\bin\Release\ConnectionSettings.pdb
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\obj\Release\ConnectionSettings.dll
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\obj\Release\ConnectionSettings.pdb
+C:\Users\michael\Documents\Visual Studio 2010\Projects\NEXUS-Informatix\ConnectionSettings\obj\Release\ConnectionSettings.csprojResolveAssemblyReference.cache
